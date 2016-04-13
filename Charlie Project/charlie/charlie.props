@@ -1,0 +1,14 @@
+charlie.server.host 127.0.0.1
+charlie.server.topology.port 1234
+charlie.server.login.port 9000
+charlie.debug true
+charlie.shoe mycharlie.plugin.MyShoe01
+#charlie.bot.b9 charlie.bot.server.B9
+#charlie.bot.n6 charlie.bot.B9
+#charlie.advisor charlie.advisor.Advisor
+#charlie.advisor mycharlie.plugin.SimpleAdvisor
+charlie.advisor charlie.advisor.Advisor
+#charlie.bot.huey charlie.bot.server.HueyStay
+#charlie.bot.huey charlie.bot.server.HueySimple
+charlie.sidebet.rule charlie.sidebet.rule.SideBetRule
+charlie.sidebet.view charlie.sidebet.view.SideBetView
